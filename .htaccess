@@ -14,7 +14,7 @@ AddType 'text/html; charset=UTF-8' html
 # RewriteCond %{HTTP_HOST} !^www\.
 # RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [NE,L,R=301]
 
-RewriteCond %{HTTP_HOST} !^www.babermahalvilas.com$ [NC]
+# RewriteCond %{HTTP_HOST} !^www.babermahalvilas.com$ [NC]
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
