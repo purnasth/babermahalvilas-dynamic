@@ -1,0 +1,4 @@
+[10-Nov-2021 13:22:33 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/slideshow/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/slideshow/uploaded_image.php on line 4

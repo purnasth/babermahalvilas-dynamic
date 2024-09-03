@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head><meta charset="euc-kr">
+    <!-- Site Title -->
+    <jcms:site:seotitle/>
+    
+    <!-- Stylesheets
+    ============================================= -->
+    <jcms:site:fevicon/>
+
+    <link rel="stylesheet" href="css/fonts.css" type="text/css" />
+        
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" /> 
+
+    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
+
+    <!-- External JavaScripts
+    ============================================= -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/plugins.js"></script>
+
+    <!-- Add script to header tag-->
+    <script type="text/javascript" src='https://staygrid.com/js/hapi/web.js?v=20220825'></script>
+    <script type="text/javascript">
+        var hlWebEngine = new HotelogixWeb();
+        function drawEngine() {
+            var options = {
+                container: document.getElementById("webDiv"),
+                hotelId: "QV5TX0ZSczM0XzQxNjE1X0Y1dGVyOTA4N3NfKWRoZl9kcnRlcjdfNDE2MTVfaGdmaF9nXmQ4NTQ=",
+                languageId: 1
+            };
+            hlWebEngine.draw(options);
+        }
+        hlWebEngine.run(drawEngine);
+    </script>
+
+</head>
+
+<body class="stretched">
+
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">                        
+        
+        <jcms:site:head/>
+
+        <div class="fslider"></div>
+        
+        <!-- Slideshow Image --> 
+        <jcms:module:slideshow/>
+        
+
+        <!-- Content
+        ============================================= -->
+        <section id="content">
+            <div class="content-wrap notoppadding nobottompadding">
+                <!-- Home page article -->
+                <jcms:module:home_article/>
+
+
+              	<div class="section nobottommargin notopmargin " id="goto">   <!--bgcolor-white-->                                                       
+              		<div class="container center">
+                    
+                        <h3 class="handwriting xlarge-font heading1">Rooms</h3>
+                        <p class="bottommargin-sm">Experience The Rana style of living</p>
+
+                        <jcms:module:package_list/>                       
+                        
+                        <!-- <a href="javascript:void(0);" class="button button-medium button-reveal button-white tright">
+                            <span>Other Rooms</span> 
+                            <i class="icon-chevron-right"></i>
+                        </a> -->
+                    </div>                   
+  	  	  	  </div>
+              
+            </div>
+        </section><!-- #content end -->          
+        
+        
+        <!-- Footer Menu  -- module bottom_menu -->
+       
+
+		<!-- Footer
+        ============================================= -->
+        <footer id="footer">
+                
+            <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                <div class="footer-widgets-wrap clearfix">                                                                     
+                    <div class="col_full center toppadding-md">
+                        <!-- Location -->   
+                        <jcms:module:officeLocation/>
+                        
+                        <!-- Social Link -->
+                        <jcms:module:socilaLink/>                   
+                    </div>
+                </div>
+            </div>
+            <!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 toppadding-md">
+                <div class="footer-content">
+                <h6>Our hotel is recommended by</h6>
+                <a href="https://bookatrekking.com/es/" target="_blank"><img src="images/logo-green-white.svg" style="margin-top: 20px;
+    padding: 3px;"></a>
+    </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 toppadding-md">
+                <div class="footer-content">
+                <h6>If you are looking to go trekking in Nepal</h6>
+                <p><a href="https://bookatrekking.com/en/blog/trekking-in-nepal-guide-and-tips/" target="_blank">Blog over Trekking in Nepal</a></p><br>
+                <p>For Dutch speakers: <a href="https://bookatrekking.com/nl/blog/trekking-in-nepal-alles-wat-je-moet-weten/" target="_blank">Blog over Trekking in Nepal </a></p><br>
+                <p>For German speakers: <a href="https://bookatrekking.com/de/blog/trekking-in-nepal-alles-was-du-wissen-musst/" target="_blank">Blog 체ber Trekking in Nepal.</a></p><br>
+                <p> For Spanish speakers: <a href="https://bookatrekking.com/es/blog/trekking-en-nepal-todo-lo-que-tienes-que-saber/" target="_blank">Blog sobre el trekking en Nepal.</a></p>
+                </div>
+            </div>-->
+          </div>
+        </div>        
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_full center serif nobottommargin">
+                        <jcms:site:copyright/>
+                        Website and Photos by<a href="http://www.longtail.info" target="_blank">&nbsp;Longtail e-media</a>
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+            
+        </footer><!-- #footer end -->        
+    </div><!-- #wrapper end -->
+    
+    <!--Div that will hold the web engine-->
+    <!--<div id="webDiv" style="border-width: 0"></div>-->
+    
+    <!-- Static popup -->
+                                
+
+    <!-- Footer Scripts -->
+    <script type="text/javascript" src="js/functions.js"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+    
+    <!--<div class="splashbg hidden">
+        <div class="cstm_modal">
+            <a href="#" class="close closepop" style="color:#fff;">X</a>
+             <div class="row">
+                 <div class="col-md-12 table text-center">
+                     <br>
+                     <a href="tel:+977 9801084753"><img src="images/offer.jpg" ></a>
+                     <br>
+                     <br>
+                     <!--<p>The Coronavirus (COVID-19) is a top safety concern for all of us. As the situation around the globe deteriorates, we wanted to update all on our organization′s position as of today. In efforts to protect the safety of our colleagues and prevent any risk, Baber Mahal Vilas is taking this step to close down until this pandemic situation is under control.</p>
+                     <p>We will update you as the situation evolves.</p>
+                     <p>Stay Home and Be Safe.</p>
+                     <p>Thank You!</p>-->
+                 <!--</div>
+             </div>
+        </div>
+    </div>-->
+
+    <style>
+    .splashbg {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 99999;
+        background: rgba(0, 0, 0, .85);
+        width: 100%;
+        height: 100%
+    }
+    
+    .cstm_modal {
+        position: absolute;
+        width: 500px;
+        max-width: 100%;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background: transparent;
+        border-radius: 4px;
+        display: block;
+        top: 50%;
+        transform: translateY(-50%)
+    }
+    
+    .cstm_modal img {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    
+    .cstm_modal p {
+        text-align:left;
+        padding: 0px 20px;
+    }
+    
+    .close {
+        positionbackground: #333;
+        border-radius: 100%;
+        padding: 5px 10px;
+        color: #fff;
+        display: block;
+        position: absolute;
+        right: 0px;
+        top: 20px;
+        opacity: 1;
+        z-index: 999;
+    }
+    </style>
+
+<script>
+jQuery(function($) {
+
+    $('.splashbg').toggleClass('hidden');
+
+    $('.closepop, .splashbg').on('click', function() {
+        $('.splashbg').remove();
+    })
+});
+</script>
+
+</body>
+</html>

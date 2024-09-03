@@ -1,0 +1,136 @@
+
+.cover{margin:0px;padding:0px;position:relative;height:670px;}
+
+.header{ background:url( ../../template/web/images/bg_menu.jpg) repeat-x;width:100%; padding-bottom:10px;z-index: 2;  height: 105px;   margin-top: -29px; }
+.box{background-color:#000000;border-radius:20px;bottom:20px;position:absolute;list-style:none;z-index: 11;padding: 20px 10px 10px 10px;width: 1126px;}
+.top-menu{  margin-top: 33px;}
+.top-menu li{list-style: none;float: right;padding-left: 30px;}
+.nav{padding-left:440px;}
+.nav1 li{list-style:none;float:left;padding-left:30px; }
+.img1{background-image:url(../../template/web/images/bbb.png);padding:10px;text-align:center;font-size:15px;}
+.img2{background-image:url(../../template/web/images/bbb.png);padding:10px;text-align: center;font-size:12px; height: 35px;
+  overflow: hidden;}
+.col-lg-4{color:#FFFFFF;}
+.body1{margin-top:0px;margin-bottom:40px;}
+.img3{background-image:url(../../template/web/images/red.png);padding:10px 30px;text-align:center;font-size:15px;}
+.img4{background-image:url(../../template/web/images/red.png);padding:10px 20px;text-align:center;font-size:12px;}
+
+.body2{background-image:color:#FFFFFF;}
+h1{font-size:25px;text-align:center;}
+.text{  padding: 0px 50px 30px 50px;
+  font-size: 17px;
+  text-align: center;
+  line-height: 24px;
+  color: #fff;}
+.online-network{text-align:center;margin-top:50px;}
+h2{font-size:20px;padding-bottom:20px;}
+.footer{border-top:solid 1px #a78c59;padding-bottom:30px; background:url(../images/border.png) repeat-x #c5baa2 center bottom;}
+.footer1{ text-align:center;} 
+.footer1 li{border-right:solid 1px #000000;margin-top:40px;padding-left:20px; padding-right:20px;list-style:none; font-size: 16px; display:inline-block;}
+.footer a {color:#000; font-size:14px;}
+.footer1 li:last-child{border-right:0;}
+.footer-menu{margin-left:70px;margin-right:70px;}
+.foot1{margin-top:60px;}
+.fulbari{position:absolute;}
+.logo{position:absolute;opacity:1;padding-left:30px;}
+.logosecond{position:absolute; background-color:#000000;opacity:0.8;color:#cc9900 ;padding:15px; text-align:center;}
+.content{padding:0px 30px;}
+body{font-family:Arial, Helvetica, sans-serif;}
+a{color:#000000;}
+.twenty{font-style:italic;color:#ffcc00;font-size:30px;}
+.online{color:#ffcc00;font-size:15px;}
+.booknow{text-decoration:underline;font-size:9px;color:#ffcc00;}
+
+/* EDITED CSS START DPEN */
+
+/*ALL COMMON STYLES HERE*/
+.titlewithborder {color: #FFF !important;font-size: 26px;font-family: arial;margin-top: 65px; font: 2em/2em "Droid Serif", Arial, Helvetica, sans-serif;}
+.nav a {color:#cc9900; font-weight:bold; text-transform: uppercase; text-decoration: none;}
+.nav a:hover {color:#fff;}
+
+.top-menu a {color: #FFFFFF;text-decoration: none;font-size: 12px;}
+.top-menu a:hover{color:#fff;}
+.main-menu li a{text-transform: uppercase;}
+/*ALL COMMON STYLES HERE*/
+
+/*ARTICLES*/
+.text p{color:#FFF;}
+/*ARTICLES*/
+
+.logo img {  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;}
+
+/*FOR SLIDER*/
+.slidershow {
+	z-index: 1;
+  position: absolute;
+  top: 0;
+}
+
+#banner-fade,
+#banner-slide{
+	margin-bottom: 60px;
+}
+
+ul.bjqs-controls.v-centered li a{
+	display:block;
+	padding:10px;
+	color:#000;
+	text-decoration: none;
+}
+
+ul.bjqs-controls.v-centered li a:hover{
+	background:#000;
+	color:#fff;
+}
+
+ol.bjqs-markers li a{
+	padding:5px 10px;
+	background:#000;
+	color:#fff;
+	margin:5px;
+	text-decoration: none;
+}
+
+ol.bjqs-markers li.active-marker a,
+ol.bjqs-markers li a:hover{
+	background: #999;
+}
+
+
+/* Basic jQuery Slider essential styles */
+
+ul.bjqs{position:relative; list-style:none;padding:0;margin:0;overflow:hidden; display:none;}
+li.bjqs-slide{position:absolute; display:none;}
+ul.bjqs-controls{list-style:none;margin:0;padding:0;z-index:9999;}
+ul.bjqs-controls.v-centered li a{position:absolute;}
+ul.bjqs-controls.v-centered li.bjqs-next a{right:0;}
+ul.bjqs-controls.v-centered li.bjqs-prev a{left:0;}
+ol.bjqs-markers{list-style: none; padding: 0; margin: 0; width:100%;}
+ol.bjqs-markers.h-centered{text-align: center;}
+ol.bjqs-markers li{display:inline;}
+ol.bjqs-markers li a{display:inline-block;}
+p.bjqs-caption{display:block;width:100%;margin:0;padding:2%;position:absolute;bottom:0;color:#FFF;font-size: 30px;}
+
+/*CAROUSEL START*/
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      margin: auto;
+  }
+.carousel-indicators .active {background-color: #675C5C !important;}
+.carousel-indicators li {border: 1px solid #675C5C !important;}
+.carousel-caption h3, p {color:#000;text-shadow:none;}
+..carousel-control.left {background-image: none !important;}
+
+  /*CAROUSEL END*/
+
+  /*BODY CSS SIMPLIFIED*/
+  .body1 a:hover{background: #000; opacity: 0.5; color:#fff;}
+  .body1 a{color:#FFF;text-decoration: none;}
+
+  .sectionhome {padding-top: 46px;}
+
+  
+
+/* END EDITED CSS */

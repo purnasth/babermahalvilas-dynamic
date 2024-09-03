@@ -1,0 +1,3 @@
+# Open to Tracking
+User-agent: *
+Allow: /

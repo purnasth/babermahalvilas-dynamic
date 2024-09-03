@@ -1,0 +1,52 @@
+[26-Aug-2021 12:25:27 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[26-Aug-2021 12:26:17 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[10-Nov-2021 13:35:26 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/banner_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/banner_image.php on line 4
+[02-Sep-2024 14:42:20 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 14:45:16 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 14:45:41 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 14:46:14 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 14:47:00 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/banner_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/banner_image.php on line 4
+[02-Sep-2024 14:51:28 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 14:51:44 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/banner_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/banner_image.php on line 4
+[02-Sep-2024 14:53:02 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
+[02-Sep-2024 15:23:32 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/banner_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/banner_image.php on line 4
+[02-Sep-2024 15:23:58 Asia/Kathmandu] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home1/babermah/public_html/apanel/package/uploaded_image.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/babermah/public_html/apanel/package/uploaded_image.php on line 4
